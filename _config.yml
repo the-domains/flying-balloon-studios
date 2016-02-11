@@ -1,0 +1,28 @@
+name: Flying Balloon Studios
+favicon: null
+layout_spectrum: 0.1178696476854384
+typography_spectrum: 0.8687115588691086
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7536134510301054
+  lightness: 0.7946325701195747
+  saturation: 0.519889559596777
+  rhythmicContrast: 0.029047413496300578
+purpose: []
